@@ -12,3 +12,4 @@ def calcular_ecuacion(p1, p2):
 m, b = calcular_ecuacion((1, 2), (3, 6))
 print(f"La ecuación es: y = {m}x + {b}")
 # Imprime: La ecuación es: y = 2.0x + 0.0
+
